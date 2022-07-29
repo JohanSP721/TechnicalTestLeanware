@@ -1,0 +1,6 @@
+[submodule "BackendTechnicalTest"]
+	path = BackendTechnicalTest
+	url = https://github.com/JohanSP721/BackendTechnicalTest.git
+[submodule "FrontendTechnicalTest"]
+	path = FrontendTechnicalTest
+	url = https://github.com/JohanSP721/FrontendTechnicalTest.git
